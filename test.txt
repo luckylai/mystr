@@ -1,5 +1,7 @@
-hahahahaha
+﻿hahahahaha
 1111111111
 abcdefghijkl
 6666666666
+哟哟哟哟
 printf("hello world");
+哟哟哟哟哟
